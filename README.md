@@ -1,17 +1,5 @@
 # Explorer
-![A portrait of Richard Stallman, edited to signify his anger.](art/stallman.png)
-## Reclaim your files!
-Starting from Android 9 (API level 28), the geniuses at Android decided to implement some "restrictions" on apps. Oh, how thoughtful of them! They thought it would be a brilliant idea to prevent apps from sharing files in their data directories with other apps. Like seriously, who needs that kind of convenience anyway?
-
-But wait, it gets even better! In Android 11 (API level 30), they took it to the next level of absurdity. Now even the stock file directory viewer, which comes pre-installed on your device, can't access the `Android/data` directory. Because, you know, it's not like people want to share those large obb files of games or those oh-so-necessary multimedia files like videos and images with their friends. Nope, let's make it impossible for them. Brilliant move! [read more](https://developer.android.com/about/versions/11/privacy/storage#other-apps-data)
-
-Oh, and let's not forget to give a standing ovation to the Android security team. They really outdid themselves this time! Locking people out of their own File System on their hard earned precious mobile devices, how considerate! After all, who needs the right to read, delete, or modify what's stored on their own devices? Clearly, the Android security team knows better.
-
-I can already hear some of you defending this madness, saying "but it's for our security..." Oh, how adorable! Let me show you a little meme to express my gratitude for your argument.
-
-![Angry Batman slapping Robin.](art/bat_to_robin.png)
-
-Oh, my dear defenders of Android's file restrictions, you are so wrong! Apps can store all sorts of sensitive data inside their internal storage. Feel free to read about it [here](https://developer.android.com/training/data-storage/app-specific).
+A small app to regain access to your files and folders.
 
 ## Installation
 
